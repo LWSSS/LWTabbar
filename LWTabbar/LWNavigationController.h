@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  LWNavigationController.h
 //  LWTabbar
 //
 //  Created by Liu Wei on 16/9/5.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface LWNavigationController : UINavigationController
 
 @end
-
